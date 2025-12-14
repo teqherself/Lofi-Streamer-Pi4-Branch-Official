@@ -1,4 +1,4 @@
-# 📹 Commercial Grade RTMP Camera Streamer for Raspberry Pi 4
+# 📹 RTMP Camera Streamer for Raspberry Pi 4
 
 A professional-grade camera streaming solution for Raspberry Pi 4/5 with a beautiful web dashboard. Stream to YouTube, Twitch, or any RTMP service using your Raspberry Pi camera.
 
